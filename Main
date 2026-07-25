@@ -1,0 +1,7 @@
+class Main{
+    public static void main(String[] args){
+   int[] num={10,22,44,5};
+   int index=2;
+   System.out.println(num[index]);
+    }
+}
